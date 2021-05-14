@@ -1,9 +1,3 @@
-erlang_rabbitmq_demo
-=====
+Erlang RabbitMQ 调用案例
 
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
+运行: rebar3 shell
